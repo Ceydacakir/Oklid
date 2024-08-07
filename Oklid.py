@@ -24,4 +24,4 @@ min_distance = distances[0]
 for distance in distances:
     if distance < min_distance:
         min_distance = distance
-print("min_distance")
+print(min_distance)
